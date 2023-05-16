@@ -30,7 +30,7 @@ Applied different experiments and approaches starting from simple models turning
 
 ### Python environment requirements
 
-```http
+```
   pip install -r requirements.txt
 ```
 
