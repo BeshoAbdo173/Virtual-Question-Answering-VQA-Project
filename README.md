@@ -4,8 +4,9 @@
 A Multimodal project in  order to solve Virtual Question Answering(VQA) challenge, one such challenge which requires high-level scene interpretation from images combined with language modelling of relevant Q&A. Given an image and a natural language question about the image, the task is to provide an accurate natural language answer.
 
 
-## Generic Model Architecture https://camo.githubusercontent.com/[https://drive.google.com/file/d/1Vei6kJ_y2YHBNUZSs043wJWhi-SbzJ5-/view?usp=sharing)]
+## Generic Model Architecture 
 
+![VQA](https://github.com/user-attachments/assets/7e921c89-49a8-4cd8-8cd0-5c2e3235576c)
 
 
 
